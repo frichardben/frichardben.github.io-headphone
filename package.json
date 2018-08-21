@@ -1,0 +1,13 @@
+{
+  "name": "headphones",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Richard Ben",
+  "license": "MIT",
+  "scripts": {
+    "compile:sass": "sass sass/main.scss css/style.css --watch"
+  },
+  "dependencies": {
+    "sass": "^1.13.0"
+  }
+}
